@@ -1,0 +1,12 @@
+make firebase project 
+amazon-challenge
+and enable google map 
+and then go to </> web
+and use same name as amazon-challenge
+and enable hosting of </> web
+you must install this line
+npm install -g firebase-tools
+and then go to project setting after all proceducer of web </> is done 
+and use config
+and past it into src by making file with name 
+firebase.js
